@@ -8,7 +8,7 @@ Data type which are used to solve real life problems where user is only aware ab
 ### Asymptotic Notations
 
 * Asymptotic Notations are mathematical representation used to describe the time complexity (or space complexity) of an algorithm
-
+ 
 * Types of Asymptotic Notations
     1. Big O Notation (O): Describes the worst-case time complexity.
     2. Big Omega Notation (Ω): Describes the best-case time complexity.
