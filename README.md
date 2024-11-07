@@ -4,7 +4,7 @@
 
 ### ADT - Abstract data type 
 Data type which are used to solve real life problems where user is only aware about the options or operations available to use and unaware about how those operations are taking place.
-
+ 
 ### Asymptotic Notations
 
 * Asymptotic Notations are mathematical representation used to describe the time complexity (or space complexity) of an algorithm
